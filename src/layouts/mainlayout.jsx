@@ -9,9 +9,6 @@ const mainlayout = () => {
   return(<>
   <Navbar/>
   <Outlet/>
-  <Homecards/>
-  <Joblisting/>
-  <Viewalljobs/>
   </>
   )
 }
